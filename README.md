@@ -1,5 +1,5 @@
 # Multi-Image-Uploading
-Uploading Multiple Images With Multiple File Inputs (Works With Regular Files Too)
+Uploading Multiple Images With Multiple File Inputs (Works With Regular Files Too)  
 Simple test file I created to learn how to properly upload multiple files. I didn't include any of the SQL, nor did I include any fancy styling as that wasn't the point for this exercise.
 
 
