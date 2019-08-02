@@ -5,7 +5,7 @@ Simple test file I created to learn how to properly upload multiple files. I did
 
 
 #### How To Use
-1. Just upload an Image to 1 or both of the input fields and hit `Submit`.
+1. Just upload an Image to one or both of the input fields and hit `Submit`.
 1. After htting `Submit`, the site will display 3 sections fo data above the input form.
    1. The first 2 sections are created by looping through the array and displaying all inputs including empty ones.
    2. The third section will display the input from the second input field including if you left that field empty.
